@@ -34,7 +34,10 @@
 <a href="https://github.com/RFitch3/RFitch3.github.io/blob/main/AirGead.zip">Updated Air Gead Banking</a>
 
 ## Code Review
-[MilestoneOne Code Review](https://youtu.be/hg0wpmSkva0)
+[MilestoneOne Code Review](https://youtu.be/mxJWkBOozFI)
+
+## Narratives
+<a href="https://github.com/RFitch3/RFitch3.github.io/blob/main/Narratives.zip">Narratives</a>
 
 ## Author
 - Robert Fitch III
