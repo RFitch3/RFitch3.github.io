@@ -30,7 +30,7 @@
 
 
 ## Author
-- Robert Fitch
+- Robert Fitch III
 
 ## Repository
 [Github Repository](https://github.com/RFitch3/RFitch3.github.io)
