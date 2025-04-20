@@ -39,8 +39,8 @@
 ## Narratives
 <a href="https://github.com/RFitch3/RFitch3.github.io/blob/main/Narratives.zip">Narratives</a>
 
-## Author
-- Robert Fitch III
-
 ## Repository
 [Github Repository](https://github.com/RFitch3/RFitch3.github.io)
+
+## Author
+- Robert Fitch III
