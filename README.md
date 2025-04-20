@@ -30,5 +30,5 @@
 ## Author
 - Robert Fitch
 
-## Description
-- CS-499 Github Pages
+## Repository
+[Github Repository](https://github.com/RFitch3/RFitch3.github.io)
