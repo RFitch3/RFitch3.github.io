@@ -28,9 +28,16 @@
 
 &emsp;Finally, I cleaned up my code, finishing anything I wasn’t able to get done before, such as improving my input validation and adding a delete function to the investments database class. Overall, I think this project shows a wide array of my skills, and demonstrates what I’ve leaned throughout my time at SNHU. 
 
+## Artifacts
+<a href="https://github.com/RFitch3/RFitch3.github.io/blob/main/OriginalAirGeadBanking.zip">Original Air Gead Banking</a>
+
+<a href="https://github.com/RFitch3/RFitch3.github.io/blob/main/AirGead.zip">Updated Air Gead Banking</a>
+
+## Code Review
+[MilestoneOne Code Review](https://youtu.be/hg0wpmSkva0)
 
 ## Author
-- Robert Fitch
+- Robert Fitch III
 
 ## Repository
 [Github Repository](https://github.com/RFitch3/RFitch3.github.io)
