@@ -3,6 +3,7 @@
 ## Self Assesment
 
 - ### Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
+
 &emsp;Throughout this course, and throughout my time at SNHU, I believe that I’ve displayed several skills that are essential to success in the field of Computer Science.
 
 &emsp;The first skill I’ve shown is an ability to quickly learn and adapt to new information. You can see this throughout the project where I challenged myself by incorporating things into the project that I had little to no knowledge about before incorporating them. Although I had some experience working with state machines, I had never built one from scratch. Similarly, I’ve had experience working with databases, but had never worked with SQLite, or databases in C++ in general. For both of these, I needed to research the topics, so I could find the most fitting solution to my system’s needs. This not only helps demonstrate my ability to learn, but my overall knowledge and skill in software engineering and database design.
@@ -16,6 +17,7 @@
 &emsp;Finally, a key skill that I learned throughout my time at SNHU is how to think with a mindset for security. I’ve learned ways attackers try to gain access to a system, how to prevent or limit these attacks, and how to design and build the system with security being a focus from the ground up.  This is shown throughout my work by using industry best standards and practices, as well as ensuring the system is safe by using things such as input validation and parameterized queries.
 
 - ### Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
+
 &emsp;For my project, I chose to focus on a single artifact, building a fuller and more complete system throughout the course. The original artifact simply allowed the user to put in investment information, and see a year-end report, which output a report with and without a monthly deposit. I chose this because I saw a lot of room for improvement in it, as it was pretty bear bones, and was created in one of my earliest courses at SNHU.
 
 &emsp;I started work on this project by adding a login screen, which simply saved user data to a .txt file, and parsed through the file to check if a user entered valid login data. I then realized that I would need to add a way for the user to navigate, settling on the solution of using a state machine to manage the states and navigation throughout the system. After some research I decided to add a Singleton StateMachine class, which held an enum of states, and several methods to handle the state machine functionality. I used this class originally to navigate through the login screen, main screen, and to cleanly exit the program. I then cleaned up the code, to make it simpler and easier to read and maintain, before submitting the first enhancement.
