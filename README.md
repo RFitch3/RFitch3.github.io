@@ -1,5 +1,13 @@
 # RFitch3
 
+# About This Project.
+
+&emsp;For this project I was asked to take my previous work at SNHU and improve upon it in three categories to show what I had learned throughout my coursework. Those categories were Sofware Engineering, Data Structures and Algorithms, and Databases. We were given a week to develop each update, with an additional week for finishing touches. The original artifact was one I created in my early courses at SNHU, with the updated artifact being the project after all the changes were made.
+
+&emsp;Because of the rubric there are a few things in the project that I'm not a fan of, such as the XOR encryption method instead of using something like AES, wchich is much more secure. We were asked to show our skill in these areas, so, I felt it better to create my own algorithm instead of simply using a library such as Crypto++.
+
+&emsp;The rest of this ePortfolio was work done for the couse, although, I will be updating it with some of my work outside of SNHU when I have it complete.
+
 ## Self Assesment
 
 - ### Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
@@ -26,7 +34,7 @@
 
 &emsp;For my final enhancement I decided to add a database with two tables to store user login data and allow the user to save investments. I researched different databases that could be used, and settled on SQLite, as it was lightweight and serverless. Although I had previously worked with MySQL before, I had experience with SQL, I hadn’t worked with SQLite, so I had to quickly learn about how it worked before I could add it to my system. After learning about SQLite, I added it to my project, adding a table and database functions for both users and investments. Adding the ability for users to save investments also meant that I needed to adjust the state machine. I ended up adding three more states, to allow the user to navigate throughout the system in a smooth way.
 
-&emsp;Finally, I cleaned up my code, finishing anything I wasn’t able to get done before, such as improving my input validation and adding a delete function to the investments database class. Overall, I think this project shows a wide array of my skills, and demonstrates what I’ve leaned throughout my time at SNHU. 
+&emsp;Finally, I cleaned up my code, finishing anything I wasn’t able to get done before, such as improving my input validation and adding a delete function to the investments database class. Overall, I think this project shows a wide array of my skills, and demonstrates what I’ve leaned throughout my time at SNHU.
 
 ## Artifacts
 <a href="https://github.com/RFitch3/RFitch3.github.io/blob/main/OriginalAirGeadBanking.zip">Original Air Gead Banking</a>
