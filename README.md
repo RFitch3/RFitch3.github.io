@@ -4,7 +4,7 @@
 
 &emsp;For this project I was asked to take my previous work at SNHU and improve upon it in three categories to show what I had learned throughout my coursework. Those categories were Sofware Engineering, Data Structures and Algorithms, and Databases. We were given a week to develop each update, with an additional week for finishing touches. The original artifact was one I created in my early courses at SNHU, with the updated artifact being the project after all the changes were made.
 
-&emsp;Because of the rubric there are a few things in the project that I'm not a fan of, such as the XOR encryption method instead of using something like AES, wchich is much more secure. We were asked to show our skill in these areas, so, I felt it better to create my own algorithm instead of simply using a library such as Crypto++.
+&emsp;Because of the rubric there are a few things in the project that I'm not a fan of, such as the login system being rudimentary, or using an XOR encryption method instead of using something like AES, wchich is much more secure. We were asked to show our skill in these areas, so, I felt it better to create my own algorithm instead of simply using a library such as Crypto++.
 
 &emsp;The rest of this ePortfolio was work done for the couse, although, I will be updating it with some of my work outside of SNHU when I have it complete.
 
